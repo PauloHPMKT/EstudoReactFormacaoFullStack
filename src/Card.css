@@ -1,0 +1,11 @@
+.card {
+    width: 33.3%;
+    background-color: rgb(238, 232, 232);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #727171;
+}
+
+.card img {
+    border-radius: 50%;
+}
